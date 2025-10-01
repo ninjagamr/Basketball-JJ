@@ -1,3 +1,4 @@
+ <Calendar client:visible/>
 <!doctype html>
 <html lang="nl">
 <head>
