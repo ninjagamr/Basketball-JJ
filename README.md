@@ -1,5 +1,4 @@
- <Calendar client:visible/>
-<!doctype html> 
+<doctype html> 
 <html lang="nl">
 <head>
   <meta charset="UTF-8">
