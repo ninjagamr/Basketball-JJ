@@ -1,5 +1,5 @@
  <Calendar client:visible/>
-<!doctype html>
+<p class="__web-inspector-hide-shortcut__"><!doctype html></p> == $0
 <html lang="nl">
 <head>
   <meta charset="UTF-8">
