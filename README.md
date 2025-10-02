@@ -1,4 +1,3 @@
-<p>
 <doctype html>
 <html lang="nl">
 <head>
